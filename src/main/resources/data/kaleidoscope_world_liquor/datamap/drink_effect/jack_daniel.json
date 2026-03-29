@@ -1,0 +1,103 @@
+{
+  "item": "kaleidoscope_world_liquor:jack_daniel",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 180,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

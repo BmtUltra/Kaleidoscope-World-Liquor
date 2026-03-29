@@ -1,0 +1,103 @@
+{
+  "item": "kaleidoscope_world_liquor:pina_colada",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 180,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "item": "kaleidoscope_world_liquor:smirnoff_red_vodka",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 180,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

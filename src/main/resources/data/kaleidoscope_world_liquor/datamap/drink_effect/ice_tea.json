@@ -1,0 +1,145 @@
+{
+  "item": "kaleidoscope_world_liquor:ice_tea",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 60,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 80,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 100,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 120,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 100,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 140,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 120,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 160,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 140,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:strength",
+        "duration": 180,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:resistance",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

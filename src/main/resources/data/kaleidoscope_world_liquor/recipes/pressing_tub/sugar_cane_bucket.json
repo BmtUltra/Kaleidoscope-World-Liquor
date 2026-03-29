@@ -1,0 +1,8 @@
+{
+  "type": "kaleidoscope_tavern:pressing_tub",
+  "fluid": "kaleidoscope_world_liquor:sugar_cane_juice",
+  "fluid_amount": 125,
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  }
+}

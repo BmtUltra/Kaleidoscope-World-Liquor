@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:item_frame"
+    },
+    {
+      "item": "minecraft:birch_sapling"
+    }
+  ],
+  "result": {
+    "item": "kaleidoscope_world_liquor:qxxy_painting"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "item": "kaleidoscope_world_liquor:maotai",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 15,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 200,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 20,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 250,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 25,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 300,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 30,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 350,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 35,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 400,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 40,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 450,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:levitation",
+        "duration": 45,
+        "amplifier": 3,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 500,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

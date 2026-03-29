@@ -1,0 +1,25 @@
+{
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "minecraft:water",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_fungus"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "result": {
+    "item": "smc:ice_tea"
+  },
+  "unit_time": 2400
+}

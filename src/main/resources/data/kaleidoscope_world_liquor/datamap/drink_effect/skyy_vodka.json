@@ -1,0 +1,103 @@
+{
+  "item": "kaleidoscope_world_liquor:skyy_vodka",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 120,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 120,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 200,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 240,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 200,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 280,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 240,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 280,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 360,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "minecraft:water_breathing",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ]
+  ]
+}
