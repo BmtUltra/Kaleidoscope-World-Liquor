@@ -1,10 +1,6 @@
 {
   "itemGroup.kaleidoscope_world_liquor_tab": "森罗酒馆：世界名酒",
 
-  "item.kaleidoscope_world_liquor.corn_bucket": "玉米桶",
-  "item.kaleidoscope_world_liquor.sugar_cane_bucket": "甘蔗桶",
-  "block.kaleidoscope_world_liquor.sugar_cane_juice": "甘蔗汁",
-  "block.kaleidoscope_world_liquor.corn_juice": "玉米汁",
   "block.kaleidoscope_world_liquor.bombay_sapphire_gin": "孟买蓝宝石金酒",
   "item.kaleidoscope_world_liquor.bombay_sapphire_gin": "孟买蓝宝石金酒",
   "block.kaleidoscope_world_liquor.jack_daniel": "杰克丹尼",
@@ -28,8 +24,6 @@
   "block.kaleidoscope_world_liquor.lafite_1982": "拉菲1982",
   "item.kaleidoscope_world_liquor.lafite_1982": "拉菲1982",
   "item.kaleidoscope_world_liquor.cola": "可乐",
-  "item.kaleidoscope_world_liquor.ice_tea": "冰红茶",
-  "block.kaleidoscope_world_liquor.ice_tea": "冰红茶",
 
   "block.kaleidoscope_tavern.bfxm_painting": "挂画",
   "tooltip.kaleidoscope_tavern.bfxm_painting": "白帆小喵L",
@@ -46,5 +40,14 @@
   "block.kaleidoscope_tavern.dream_painting": "挂画",
   "tooltip.kaleidoscope_tavern.dream_painting": "旧梦",
   "block.kaleidoscope_tavern.rabbit_painting": "挂画",
-  "tooltip.kaleidoscope_tavern.rabbit_painting": "小兔子要听话哦"
+  "tooltip.kaleidoscope_tavern.rabbit_painting": "小兔子要听话哦",
+
+  "effect.kaleidoscope_world_liquor.tequila": "龙舌兰",
+  "effect.kaleidoscope_world_liquor.tequila.description": "单次受到的伤害不会超过最大生命值的一部分",
+  "effect.kaleidoscope_world_liquor.captain_gift": "船长的馈赠",
+  "effect.kaleidoscope_world_liquor.captain_gift.description": "让你能够在水面上行走",
+  "effect.kaleidoscope_world_liquor.treasure_guide": "宝藏指引",
+  "effect.kaleidoscope_world_liquor.treasure_guide.description": "击败生物有概率获得双倍掉落，收获作物有概率获得双倍产出，获得经验增加",
+  "effect.kaleidoscope_world_liquor.multi_jump": "多段跳",
+  "effect.kaleidoscope_world_liquor.multi_jump.description": "允许在空中进行额外跳跃"
 }

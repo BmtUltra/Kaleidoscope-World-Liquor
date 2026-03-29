@@ -3,12 +3,14 @@
   "minVersion": "0.8",
   "package": "com.bmt.kaleidoscope_world_liquor.mixin",
   "plugin": "com.bmt.kaleidoscope_world_liquor.mixin.MainMixinPlugin",
+  "refmap": "kaleidoscope_end.refmap.json",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "kaleidoscope_tavern.CaptainGiftMixin",
     "smc.ItemRegistryRedirectMixin"
   ],
-  "client": [],
+  "client": [
+  ],
   "server": [],
   "injectors": {
     "defaultRequire": 1

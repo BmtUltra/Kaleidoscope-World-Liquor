@@ -42,5 +42,12 @@
   "block.kaleidoscope_world_liquor.dream_painting": "Painting",
   "tooltip.kaleidoscope_world_liquor.dream_painting": "Dream",
   "block.kaleidoscope_world_liquor.rabbit_painting": "Painting",
-  "tooltip.kaleidoscope_world_liquor.rabbit_painting": "Rabbit"
+  "tooltip.kaleidoscope_world_liquor.rabbit_painting": "Rabbit",
+
+  "effect.kaleidoscope_world_liquor.tequila": "龙舌兰",
+  "effect.kaleidoscope_world_liquor.tequila.description": "单次受到的伤害不会超过最大生命值的一部分",
+  "effect.kaleidoscope_world_liquor.captain_gift": "船长的馈赠",
+  "effect.kaleidoscope_world_liquor.captain_gift.description": "让你能够在水面上行走",
+  "effect.kaleidoscope_world_liquor.treasure_guide": "宝藏指引",
+  "effect.kaleidoscope_world_liquor.treasure_guide.description": "击败生物有概率获得双倍掉落，收获作物有概率获得双倍产出，获得经验增加"
 }
