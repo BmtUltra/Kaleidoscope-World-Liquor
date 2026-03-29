@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod(KaleidoscopeWorldLiquor.MODID)
+@SuppressWarnings("all")
 public class KaleidoscopeWorldLiquor
 {
     public static final String MODID = "kaleidoscope_world_liquor";
@@ -20,7 +21,7 @@ public class KaleidoscopeWorldLiquor
         ModPaintings.register(modEventBus);
         ModSounds.SOUND_EVENTS.register(modEventBus);
         IceTeaRegistry.register(modEventBus);
-
+        ModEffects.register(modEventBus);
         MinecraftForge.EVENT_BUS.register(this);
     }
     public static ResourceLocation id(String name) {
