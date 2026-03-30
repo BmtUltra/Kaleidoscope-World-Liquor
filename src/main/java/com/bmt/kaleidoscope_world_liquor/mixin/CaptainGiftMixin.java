@@ -1,4 +1,4 @@
-package com.bmt.kaleidoscope_world_liquor.mixin.kaleidoscope_tavern;
+package com.bmt.kaleidoscope_world_liquor.mixin;
 
 import com.bmt.kaleidoscope_world_liquor.init.ModEffects;
 import com.llamalad7.mixinextras.expression.Definition;
