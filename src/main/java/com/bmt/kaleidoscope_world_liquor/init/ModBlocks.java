@@ -165,8 +165,9 @@ public class ModBlocks {
                             ),
                             Block.box(2, 0, 2, 14, 16, 14)
                     ).build().get());
-
-
+    /**
+     * 这就是不用github的后果
+    */
     public static void register(IEventBus eventBus) {
         BLOCKS.register(eventBus);
     }
