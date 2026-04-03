@@ -5,9 +5,11 @@
   "refmap": "kaleidoscope_world_liquor.refmap.json",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "CaptainGiftMixin"
+    "CaptainGiftMixin",
+    "MultiJumpFallDamageMixin"
   ],
   "client": [
+    "ClientPlayerEntityMixin"
   ],
   "server": [],
   "injectors": {
