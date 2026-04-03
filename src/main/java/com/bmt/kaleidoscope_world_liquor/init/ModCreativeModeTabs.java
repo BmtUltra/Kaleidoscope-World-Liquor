@@ -1,7 +1,7 @@
 package com.bmt.kaleidoscope_world_liquor.init;
 
 import com.bmt.kaleidoscope_world_liquor.KaleidoscopeWorldLiquor;
-import com.bmt.kaleidoscope_world_liquor.init.register.IceTeaRegistry;
+import com.bmt.kaleidoscope_world_liquor.init.smc.IceTeaRegistry;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;

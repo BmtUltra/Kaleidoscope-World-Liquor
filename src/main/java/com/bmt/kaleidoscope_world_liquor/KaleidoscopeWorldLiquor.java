@@ -1,7 +1,7 @@
 package com.bmt.kaleidoscope_world_liquor;
 
 import com.bmt.kaleidoscope_world_liquor.init.*;
-import com.bmt.kaleidoscope_world_liquor.init.register.IceTeaRegistry;
+import com.bmt.kaleidoscope_world_liquor.init.smc.IceTeaRegistry;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;

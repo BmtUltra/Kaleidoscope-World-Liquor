@@ -1,4 +1,4 @@
-package com.bmt.kaleidoscope_world_liquor.init.register;
+package com.bmt.kaleidoscope_world_liquor.init.smc;
 
 import com.github.ysbbbbbb.kaleidoscopetavern.block.brew.DrinkBlock;
 import com.github.ysbbbbbb.kaleidoscopetavern.item.DrinkBlockItem;
