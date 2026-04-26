@@ -1,0 +1,12 @@
+{
+  "type": "kaleidoscope_world_liquor:freezer",
+  "fluid": "minecraft:water",
+  "fluid_amount": 1000,
+  "items": ["", "", "", ""],
+  "result": {
+    "item": "minecraft:ice",
+    "count": 3
+  },
+  "craft_time": 1800,
+  "texture": "kaleidoscope_world_liquor:block/ice"
+}

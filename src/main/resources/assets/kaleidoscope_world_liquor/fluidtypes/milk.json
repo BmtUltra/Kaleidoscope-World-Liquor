@@ -1,0 +1,15 @@
+{
+  "description_id": "fluid.kaleidoscope_world_liquor.milk",
+  "can_convert_to_source": false,
+  "can_drown": true,
+  "can_extinguish": false,
+  "can_hydrate": false,
+  "can_push_entity": true,
+  "can_swim": true,
+  "density": 1000,
+  "viscosity": 1000,
+  "temperature": 300,
+  "still_texture": "kaleidoscope_world_liquor:block/milk_still",
+  "flowing_texture": "kaleidoscope_world_liquor:block/milk_flowing",
+  "color": "0xFFFFFFFF"
+}

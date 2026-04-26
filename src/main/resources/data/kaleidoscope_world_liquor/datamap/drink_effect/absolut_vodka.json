@@ -3,27 +3,7 @@
   "effects": [
     [
       {
-        "effect": "minecraft:invisibility",
-        "duration": 60,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 40,
-        "amplifier": 0,
-        "probability": 1.0
-      }
-    ],
-    [
-      {
-        "effect": "minecraft:invisibility",
-        "duration": 80,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
+        "effect": "kaleidoscope_world_liquor:tequila",
         "duration": 60,
         "amplifier": 0,
         "probability": 1.0
@@ -31,13 +11,7 @@
     ],
     [
       {
-        "effect": "minecraft:invisibility",
-        "duration": 100,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
+        "effect": "kaleidoscope_world_liquor:tequila",
         "duration": 80,
         "amplifier": 0,
         "probability": 1.0
@@ -45,13 +19,7 @@
     ],
     [
       {
-        "effect": "minecraft:invisibility",
-        "duration": 120,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
+        "effect": "kaleidoscope_world_liquor:tequila",
         "duration": 100,
         "amplifier": 1,
         "probability": 1.0
@@ -59,42 +27,32 @@
     ],
     [
       {
-        "effect": "minecraft:invisibility",
+        "effect": "kaleidoscope_world_liquor:tequila",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_world_liquor:tequila",
         "duration": 140,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 120,
         "amplifier": 1,
         "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:invisibility",
+        "effect": "kaleidoscope_world_liquor:tequila",
         "duration": 160,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 140,
-        "amplifier": 1,
+        "amplifier": 2,
         "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:invisibility",
+        "effect": "kaleidoscope_world_liquor:tequila",
         "duration": 180,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 160,
         "amplifier": 2,
         "probability": 1.0
       }

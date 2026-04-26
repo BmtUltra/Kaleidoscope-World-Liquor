@@ -3,10 +3,13 @@
   "carrier": {
     "item": "kaleidoscope_tavern:empty_bottle"
   },
-  "fluid": "kaleidoscope_world_liquor:sugar_cane_juice",
+  "fluid": "minecraft:water",
   "ingredients": [
     {
-      "item": "minecraft:sweet_berries"
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:sugar_cane"
     }
   ],
   "result": {

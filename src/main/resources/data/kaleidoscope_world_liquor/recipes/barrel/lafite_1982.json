@@ -1,0 +1,16 @@
+{
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "kaleidoscope_tavern:grape_juice",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_tavern:grape"
+    }
+  ],
+  "result": {
+    "item": "kaleidoscope_world_liquor:lafite_1982"
+  },
+  "unit_time": 2400
+}

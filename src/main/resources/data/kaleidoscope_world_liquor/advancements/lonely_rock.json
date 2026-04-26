@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "title": "孤独摇滚",
+    "description": "集齐波奇布丁、喜多夹心脆、凉山田筒、妙脆角！",
+    "icon": {
+      "item": "kaleidoscope_world_liquor:pochi_pudding"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_ice_cone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kaleidoscope_world_liquor:liangshan_ice_cone"]
+          }
+        ]
+      }
+    },
+    "get_crisp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kaleidoscope_world_liquor:kita_stuffed_crisp"]
+          }
+        ]
+      }
+    },
+    "get_pudding": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kaleidoscope_world_liquor:pochi_pudding"]
+          }
+        ]
+      }
+    },
+    "get_corner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kaleidoscope_world_liquor:magic_crispy_corner"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_ice_cone"],
+    ["get_crisp"],
+    ["get_pudding"],
+    ["get_corner"]
+  ]
+}

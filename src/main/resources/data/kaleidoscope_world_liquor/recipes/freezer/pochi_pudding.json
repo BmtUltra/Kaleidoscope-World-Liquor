@@ -1,0 +1,13 @@
+{
+  "type": "kaleidoscope_world_liquor:freezer",
+  "fluid": "kaleidoscope_tavern:grape_juice",
+  "fluid_amount": 1000,
+  "items": ["minecraft:slime_ball", "", "", ""],
+  "result": {
+    "item": "kaleidoscope_world_liquor:pochi_pudding",
+    "count": 1
+  },
+  "craft_time": 100,
+  "texture": "kaleidoscope_world_liquor:block/snow",
+  "extract_condition": "minecraft:bowl"
+}

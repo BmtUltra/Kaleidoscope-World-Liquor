@@ -3,98 +3,56 @@
   "effects": [
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 120,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 80,
         "amplifier": 0,
         "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 160,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 120,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 200,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 160,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 240,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 200,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 280,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 240,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 320,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 280,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:night_vision",
+        "effect": "kaleidoscope_world_liquor:multi_jump",
         "duration": 360,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:water_breathing",
-        "duration": 320,
         "amplifier": 0,
         "probability": 1.0
       }

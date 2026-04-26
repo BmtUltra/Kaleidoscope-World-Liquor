@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "L": {
+      "tag": "forge:ingots/iron"
+    },
+    "W": {
+      "item": "minecraft:gray_carpet"
+    }
+  },
+  "pattern": [
+    "W",
+    "C",
+    "L"
+  ],
+  "result": {
+    "item": "kaleidoscope_world_liquor:bar_stool_gray"
+  },
+  "show_notification": true
+}

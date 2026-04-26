@@ -3,7 +3,7 @@
   "carrier": {
     "item": "kaleidoscope_tavern:empty_bottle"
   },
-  "fluid": "kaleidoscope_world_liquor:sugar_cane_juice",
+  "fluid": "minecraft:water",
   "ingredients":[
   {
     "item": "manors_bounty:half_of_coconut"

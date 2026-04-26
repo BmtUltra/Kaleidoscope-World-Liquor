@@ -1,0 +1,19 @@
+{
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "minecraft:water",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_cookery:rice"
+    },
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "result": {
+    "item": "kaleidoscope_world_liquor:bamboo_leaf_green_liquor"
+  },
+  "unit_time": 2400
+}

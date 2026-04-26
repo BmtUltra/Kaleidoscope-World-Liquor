@@ -3,10 +3,13 @@
   "carrier": {
     "item": "kaleidoscope_tavern:empty_bottle"
   },
-  "fluid": "kaleidoscope_world_liquor:corn_juice",
+  "fluid": "minecraft:water",
   "ingredients": [
     {
-      "item": "kaleidoscope_cookery:rice_panicle"
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:sweet_berries"
     }
   ],
   "result": {

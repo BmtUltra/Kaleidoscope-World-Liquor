@@ -4,5 +4,11 @@
     "sounds": [
       "kaleidoscope_world_liquor:ice_tea_eat"
     ]
+  },
+  "cool_ice_tea_drink": {
+    "subtitle": "subtitles.kaleidoscope_world_liquor.cool_ice_tea_drink",
+    "sounds": [
+      "kaleidoscope_world_liquor:cool_ice_tea_drink"
+    ]
   }
 }

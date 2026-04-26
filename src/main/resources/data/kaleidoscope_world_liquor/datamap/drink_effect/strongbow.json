@@ -1,0 +1,61 @@
+{
+  "item": "kaleidoscope_world_liquor:strongbow",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:healing",
+        "duration": 180,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

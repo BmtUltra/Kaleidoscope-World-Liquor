@@ -1,0 +1,61 @@
+{
+  "item": "kaleidoscope_world_liquor:lafite_1982",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:health_boost",
+        "duration": 180,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

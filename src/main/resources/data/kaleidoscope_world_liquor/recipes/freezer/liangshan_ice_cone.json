@@ -1,0 +1,12 @@
+{
+  "type": "kaleidoscope_world_liquor:freezer",
+  "fluid": "kaleidoscope_world_liquor:milk_still",
+  "fluid_amount": 1000,
+  "items": ["minecraft:blue_dye", "", "", ""],
+  "result": {
+    "item": "kaleidoscope_world_liquor:liangshan_ice_cone",
+    "count": 1
+  },
+  "craft_time": 1800,
+  "texture": "kaleidoscope_world_liquor:block/snow"
+}

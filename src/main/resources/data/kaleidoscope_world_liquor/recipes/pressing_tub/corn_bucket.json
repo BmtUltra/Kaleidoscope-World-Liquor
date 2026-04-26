@@ -1,9 +1,0 @@
-{
-  "type": "kaleidoscope_tavern:pressing_tub",
-  "fluid": "kaleidoscope_world_liquor:corn_juice",
-  "fluid_amount": 125,
-  "ingredient":
-  {
-    "tag": "forge:crops/corn"
-  }
-}

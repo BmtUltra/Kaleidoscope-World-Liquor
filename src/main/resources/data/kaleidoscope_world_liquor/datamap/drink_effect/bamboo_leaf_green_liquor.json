@@ -1,0 +1,61 @@
+{
+  "item": "kaleidoscope_world_liquor:bamboo_leaf_green_liquor",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 100,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 120,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 140,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 160,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 180,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

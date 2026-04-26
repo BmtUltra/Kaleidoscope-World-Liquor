@@ -3,98 +3,56 @@
   "effects": [
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 60,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 40,
         "amplifier": 0,
         "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 80,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 60,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 100,
         "amplifier": 1,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 80,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 120,
         "amplifier": 1,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 100,
-        "amplifier": 1,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 140,
         "amplifier": 1,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 120,
-        "amplifier": 1,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 160,
         "amplifier": 2,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 140,
-        "amplifier": 1,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:jump_boost",
+        "effect": "kaleidoscope_world_liquor:captain_gift",
         "duration": 180,
-        "amplifier": 2,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:regeneration",
-        "duration": 160,
         "amplifier": 2,
         "probability": 1.0
       }

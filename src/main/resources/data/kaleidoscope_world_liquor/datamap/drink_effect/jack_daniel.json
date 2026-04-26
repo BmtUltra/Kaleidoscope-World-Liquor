@@ -3,98 +3,56 @@
   "effects": [
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 60,
-        "amplifier": 0,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 40,
         "amplifier": 0,
         "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 80,
         "amplifier": 0,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 60,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 100,
         "amplifier": 1,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 80,
-        "amplifier": 0,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 120,
         "amplifier": 1,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 100,
-        "amplifier": 1,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 140,
         "amplifier": 1,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 120,
-        "amplifier": 1,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 160,
         "amplifier": 2,
         "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 140,
-        "amplifier": 1,
-        "probability": 1.0
       }
     ],
     [
       {
-        "effect": "minecraft:strength",
+        "effect": "kaleidoscope_world_liquor:treasure_guide",
         "duration": 180,
-        "amplifier": 2,
-        "probability": 1.0
-      },
-      {
-        "effect": "minecraft:resistance",
-        "duration": 160,
         "amplifier": 2,
         "probability": 1.0
       }

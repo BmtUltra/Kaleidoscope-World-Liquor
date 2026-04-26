@@ -2,7 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "kaleidoscope_world_liquor:block/johnnie_walker"
+		"1": "kaleidoscope_world_liquor:block/johnnie_walker",
+		"particle": "kaleidoscope_world_liquor:block/johnnie_walker"
 	},
 	"render_type": "minecraft:cutout",
 	"elements": [
